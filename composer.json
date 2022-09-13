@@ -1,5 +1,5 @@
 {
-  "name": "va/cutlet-recaptcha",
+  "name": "dizatech/cutlet-recaptcha",
   "description": "A package to use google recaptcha v2 with component and rule in laravel apps.",
   "keywords": [
     "laravel",
@@ -20,8 +20,8 @@
     }
   ],
   "require": {
-    "php": "7.1.*|7.2.*|7.3.*|7.4.*|8.*",
-    "laravel/framework": "7.*|8.*"
+    "php": "^7.3|^8.1",
+    "laravel/framework": "^7.0|^8.0|^9.0"
   },
   "autoload": {
     "psr-4": {
